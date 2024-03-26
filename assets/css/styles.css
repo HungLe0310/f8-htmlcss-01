@@ -107,6 +107,7 @@ a {
     letter-spacing: 0.018rem;
 }
 .hero .title {
+    min-width: 560px;
     margin-top: 8px;
     color: #000336;
     font-size: 6.4rem;
